@@ -1,11 +1,5 @@
-using System;
-using System.IO;
-using System.Linq;
 using System.Text.RegularExpressions;
-using System.Collections.Generic;
 using OfficeOpenXml;
-using System.Data;
-using System.Globalization;
 
 namespace RateMonitorAnalyser
 {
