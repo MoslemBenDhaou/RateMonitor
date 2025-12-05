@@ -1,0 +1,210 @@
+# -----------------------------------------------------------------------------
+# General
+# -----------------------------------------------------------------------------
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.cache
+*.bak
+*.tmp
+*.temp
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.psess
+*.vsp
+*.vsps
+*.vsmdi
+*.psess
+*.vspx
+*.sap
+*.orig
+*.rej
+*.diff
+*.patch
+*.ipr
+*.iml
+*.iws
+*_i.c
+*_p.c
+*.tmp_proj
+*.tmp_debug
+*.tmp_release
+*.vsconfig
+*.DotSettings.user
+*.dotCover
+*.ncb
+*.aps
+*.nvcache
+*.sln.ide
+*.ilk
+*.ipch
+*.iobj
+*.ipdb
+*.tlog
+*.lastcodeanalysissucceeded
+*.lastbuildstate
+*.vsixmanifest
+*.codecoverage
+*.coverage
+*.coveragexml
+*.gcov
+*.gcda
+*.gcno
+*.gch
+*.obj
+*.o
+*.lo
+*.la
+*.gch
+*.pch
+
+# -----------------------------------------------------------------------------
+# OS
+# -----------------------------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+
+# -----------------------------------------------------------------------------
+# Build outputs
+# -----------------------------------------------------------------------------
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+[Rr]elease*/
+[Dd]ebug*/
+[Oo]utput/
+[Pp]ublish*/
+TestResults/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og*.xml
+[Bb]uild[Ll]og*/
+[Bb]uild[Rr]eport*.xml
+[Ll]og/
+[Ll]ogs/
+
+# -----------------------------------------------------------------------------
+# Visual Studio / VS Code
+# -----------------------------------------------------------------------------
+.vs/
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/settings.json
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+*.opensdf
+*.sdf
+*.cachefile
+
+# -----------------------------------------------------------------------------
+# Rider / ReSharper
+# -----------------------------------------------------------------------------
+.idea/
+*.sln.iml
+*.DotSettings
+_ReSharper*/
+*.[Rr]e[Ss]harper
+_TeamCity*
+.fleet/
+
+# -----------------------------------------------------------------------------
+# NuGet
+# -----------------------------------------------------------------------------
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+*.nuget.props
+*.nuget.targets
+packages/
+*.lock.json
+project.lock.json
+artifacts/
+
+# -----------------------------------------------------------------------------
+# Entity Framework / Migrations
+# -----------------------------------------------------------------------------
+*.db
+*.sqlite
+*.sqlite3
+Migrations/obj/
+
+# -----------------------------------------------------------------------------
+# Azure
+# -----------------------------------------------------------------------------
+*.azurePubxml
+*.pubxml
+*.publishproj
+ServiceConfiguration.*.cscfg
+*.wawsproj
+*.PublishSettings
+csx/
+
+# -----------------------------------------------------------------------------
+# IIS / Web
+# -----------------------------------------------------------------------------
+App_Data/
+App_Browsers/
+App_Code/
+App_WebReferences/
+App_LocalResources/
+App_GlobalResources/
+*.designer.cs
+*.designer.vb
+*.generated.cs
+
+# -----------------------------------------------------------------------------
+# Testing / Coverage
+# -----------------------------------------------------------------------------
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og/
+*.gcov
+*.coverage
+*.coveragexml
+*.nunit.*
+BenchmarkDotNet.Artifacts/
+
+# -----------------------------------------------------------------------------
+# Packaging / Tools
+# -----------------------------------------------------------------------------
+.paket/
+paket-files/
+.fake/
+tools/**
+!.config
+
+# -----------------------------------------------------------------------------
+# Misc
+# -----------------------------------------------------------------------------
+node_modules/
+dist/
+tmp/
+temp/
+.idea/
+.ionide/
+.histfile
+.project
+.classpath
+.settings/
+.gradle/
+local.settings.json
